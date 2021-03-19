@@ -1,0 +1,26 @@
+Forward Selection Search
+CS170_SMALLtestdata__20.txt
+85.667
+95.333
+93.667
+89.667
+84.667
+85.333
+82.667
+79.667
+78.667
+74.000
+Best set: { 3 4 } which had an accuracy of 95.333
+Backward Elimination Search
+CS170_SMALLtestdata__20.txt
+79.000
+82.667
+84.000
+84.333
+85.667
+87.333
+92.000
+95.333
+85.667
+81.000
+Best set: { 4 3 } which had an accuracy of 95.333
